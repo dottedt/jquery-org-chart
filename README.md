@@ -12,7 +12,7 @@ This was written in 2006 but supprisingly, it still works.
 * FireFox Version 28.0
 * Safari Version 7.0.3 (9537.75.14)
 
-## When originally written in 12/29/06 it worked on
+## When originally written in 2006 it worked on
 
 * IE 6,7,Firefox and Sefari
 
