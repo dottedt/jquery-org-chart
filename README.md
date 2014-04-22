@@ -27,7 +27,7 @@ This was written in 2006 but supprisingly, it still works.
 
 ## Written mostly for accessability
 
-* It uses ol and li for layout the css and javascript are just to make it purdy for sighted folks.
+* It uses ol and li for layout. The css and javascript are just to make it purdy for sighted folks.
 
 ## Other things
 
