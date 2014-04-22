@@ -1,0 +1,68 @@
+body {
+   background-color: #000;
+   font-family: 'Lucida Grande','Lucida Sans Unicode',Arial,sans-serif;
+   font-size:62.8%;
+}
+
+h1 {
+   color: #8F8F8F;
+}
+
+.vcard {
+   width: 20.7em;
+   text-align: left;
+   border: 1px solid #9E9E9E;
+   background: #48B none repeat scroll 0;
+   font-size: 1.3em;
+   font-weight: 400;
+   line-height: 1.2;
+   color: #FFF;
+   padding: .5em;
+}
+
+.vcard h3 {
+   text-transform: uppercase;
+   color: #FFF;
+   font-size: .90em;
+   text-align: center;
+   letter-spacing: 2px;
+   font-weight: 700;
+   background: #269 none repeat scroll 0;
+   padding: .3em;
+}
+
+.vcard a,.vcard a:hover {
+   text-decoration: none;
+   color: #fff;
+   padding-bottom: .5em;
+   margin-bottom: 1em;
+}
+
+.vcard .org {
+   text-align: center;
+   padding-bottom: .5em;
+}
+
+.vcard .adr,.vcard .tel {
+   padding-bottom: .5em;
+   padding-right: .3em;
+   font-size: .8em;
+   text-align: right;
+}
+
+.center-point-bottom, .center-point-top  {
+   border-left: 1px solid #8F8F8F;
+}
+
+
+.vcard .fn {
+/*Intentionally left blank*/
+}
+
+.vcard .adr .street-address {
+/*Intentionally left blank*/
+}
+
+.vcard .email {
+/*Intentionally left blank*/
+}

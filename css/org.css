@@ -1,0 +1,64 @@
+
+body {
+   text-align:center;
+}
+#org-chart-container {
+	padding-top:1em;
+}
+ol {
+   list-style:none;
+   list-style-position: inside;
+}
+ol ol {
+  padding: 0 20px
+}
+li{
+   float:left;
+   display: inline;
+}
+
+html>/**/body .vcard {
+   margin-left:auto;
+   margin-right:auto;
+}
+	/*
+	Need to recheck. 12/29/06  To this point in the CSS it should work in IE 6,7,Firefox,Sefari and
+	Netscape.
+	*/
+
+  /*
+  Sometimes it may appear that a top and bottom center point don't line up.
+  It's not a bug so don't worry about it.
+  */
+
+.center-point-top, .center-point-bottom  {
+	position:relative;
+	padding-top:1em;
+	left:50%;
+}
+
+.line {
+	clear:both;
+	position:absolute;
+	border-top:1px solid #8F8F8F;
+}
+.clear {
+	clear:both;
+}
+.container {
+  margin:0 0.5em;
+}
+.dual-report, .dual-report .vcard{
+	/*Combined for FireFox and IE.*/
+	float:left;
+	display: inline;
+	position:relative;
+}
+.dual-report .vcard {
+	margin: 0 0.5em;
+}
+
+
+
+
+
